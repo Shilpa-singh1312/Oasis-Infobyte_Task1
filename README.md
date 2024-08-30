@@ -1,6 +1,6 @@
-### Car Price Prediction with Machine Learning
+## Car Price Prediction with Machine Learning
 
-Overview
+### Overview
 
 This project demonstrates how to predict car prices using machine learning models. Car prices can be influenced by various factors including brand goodwill, features, horsepower, and mileage. In this project, we explore Linear Regression and Ridge Regression to build and evaluate predictive models.
 
